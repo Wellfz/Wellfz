@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Matheus Gomes
 
-<!--
-**Wellfz/Wellfz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação  
+⚙️ Explorando C, Python e desenvolvimento de jogos no Roblox  
+🧠 Raciocínio competitivo, estratégico e com sede de profundidade técnica
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos em Destaque
+
+- [`sistema-apolice-c`](https://github.com/Wellfz/sistema-apolice-c): uso de `struct` e `union` em C para um sistema de seguros
+
+---
+
+## 📊 Linguagens em foco
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wellfz&layout=compact&langs_count=6&theme=dracula)
+
+---
+
+## 📫 Conecte-se
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-gms/)
