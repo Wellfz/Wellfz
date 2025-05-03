@@ -6,11 +6,6 @@
 
 ---
 
-## 🚀 Projetos em Destaque
-
-- [`sistema-apolice-c`](https://github.com/Wellfz/sistema-apolice-c): uso de `struct` e `union` em C para um sistema de seguros
-
----
 
 ## 📊 Linguagens em foco
 
