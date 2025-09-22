@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Matheus Gomes
 
 🎓 Estudante de Ciência da Computação  
-⚙️ Explorando C e desenvolvimento de jogos
+⚙️ Explorando C e Python
 🧠 Raciocínio competitivo, estratégico e com sede de profundidade técnica
 
 ---
