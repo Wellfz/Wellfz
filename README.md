@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Matheus Gomes
+# 👋 Im Matheus Gomes
 
 🎓 Sciente Computer Student
 ⚙️ Currently exploring Java
